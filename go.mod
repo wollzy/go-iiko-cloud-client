@@ -1,4 +1,4 @@
-module gitlab.com/wollzy/go-iiko-cloud-client
+module github.com/wollzy/go-iiko-cloud-client
 
 go 1.18
 
